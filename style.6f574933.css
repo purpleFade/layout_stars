@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.stars,body{margin:0}.stars{display:flex;padding:0}.stars--1 :first-child,.stars--2 :nth-child(-n+2),.stars--3 :nth-child(-n+3),.stars--4 :nth-child(-n+4),.stars--5 :nth-child(-n+5){background-image:url(star-active.6aab7e7e.svg);background-repeat:no-repeat}.stars__star{background-position:50%;background-image:url(star.5b4179dc.svg);background-repeat:no-repeat;height:16px;width:16px;margin-right:4px}.stars__star:last-child{margin:0}
+/*# sourceMappingURL=style.6f574933.css.map */
